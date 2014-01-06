@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/mrmac/Desktop/GoogleTV/Notifier/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Notifier</string>
+    <string name="btn_custom_notify">Custom notification </string>
+    <string name="btn_ongoing_notify">Ongoing notification </string>
+    <string name="btn_text_no_toast">Notification without toast</string>
+    <string name="btn_text_toast">Default Notification</string>
+    <string name="content_text">Click to launch the App</string>
+    <string name="content_text1">More details</string>
+    <string name="content_title">This is a default notification</string>
+    <string name="content_title1">Title goes here....</string>
+    <string name="custom_notification">Custom notification with a custom image and text color </string>
+    <string name="hello">Hello World, NotificationActivity!</string>
+    <string name="ongoing_content_text">Can n\'t be dismissed using \'Clear\' button</string>
+    <string name="ongoing_content_title">Ongoing notification </string>
+    <string name="ticker_text">You have a new notification!</string>
+    <string name="ticker_text1">You have a new custom notification</string>
+    <string name="ticker_text2">This is an ongoing notification</string>
+    <string name="title">This is a Sample app for Google TV Notifications.</string>
+
+</resources>
